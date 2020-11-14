@@ -1,3 +1,9 @@
+adduser (3.118+kaisen3) kaisen-packages; urgency=medium
+
+  * Define REMOVE_HOME to 0 on deluser.conf
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>  Sat, 14 Nov 2020 03:20:31 +0200
+
 adduser (3.118+kaisen2) kaisen-devel; urgency=medium
 
   * Adding zsh depends (for adapting shadow package configuration)
